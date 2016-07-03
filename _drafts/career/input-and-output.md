@@ -12,9 +12,18 @@ Having good skills or true understanding of XXX is meaningless unless you levera
 
 The purpose of input is to product good output.
 
- 
-
-input
+ input
 what kind of input ... ?
 handwriting
 tutorials
+
+
+output
+write code in open source projects
+your product/service development
+answer in stack overflow, quora, etc
+blogs
+
+input
+ones you focus on -> decided by output
+ones you just skim through -> cultivate your motivation to learn but not learn in deep
